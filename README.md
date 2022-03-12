@@ -1,4 +1,5 @@
 # Hi there, I'm Mohamed Nasr 👋 
+![](https://komarev.com/ghpvc/?username=mohamedhaloka&style=flat-square)
 
 ## I'm a Developer and Geek!!
 
@@ -6,8 +7,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2022 Goals: Learn more about native IOS and Android and show more topics
 
-
-![](https://komarev.com/ghpvc/?username=mohamedhaloka&style=flat-square)
 
 ### Connect with me:
 
