@@ -7,7 +7,7 @@
 - 🥅 2022 Goals: Learn more about native IOS and Android and show more topics
 
 
-![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
+![](https://komarev.com/ghpvc/?mnhaloka&style=flat-square)
 
 ### Connect with me:
 
